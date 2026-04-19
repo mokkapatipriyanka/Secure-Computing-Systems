@@ -1,0 +1,17 @@
+{
+    "threat_report": {
+        "total_threats_detected": 2,
+        "malicious_ips": [
+            {
+                "ip_address": "192.168.1.100",
+                "failed_attempts": 6,
+                "threat_level": "HIGH"
+            },
+            {
+                "ip_address": "203.0.113.45",
+                "failed_attempts": 4,
+                "threat_level": "MEDIUM"
+            }
+        ]
+    }
+}
